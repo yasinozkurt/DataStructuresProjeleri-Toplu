@@ -1,0 +1,7 @@
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProje4.3\DsProje4.3\bin\Debug\DsProje4.3.exe.config
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProje4.3\DsProje4.3\bin\Debug\DsProje4.3.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProje4.3\DsProje4.3\bin\Debug\DsProje4.3.pdb
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProje4.3\DsProje4.3\obj\Debug\DsProje4.3.csproj.AssemblyReference.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProje4.3\DsProje4.3\obj\Debug\DsProje4.3.csproj.CoreCompileInputs.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProje4.3\DsProje4.3\obj\Debug\DsProje4.3.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProje4.3\DsProje4.3\obj\Debug\DsProje4.3.pdb

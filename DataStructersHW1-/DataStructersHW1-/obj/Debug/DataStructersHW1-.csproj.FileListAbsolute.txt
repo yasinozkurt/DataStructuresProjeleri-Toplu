@@ -1,0 +1,7 @@
+C:\Users\YASİN ÖZKURT\Source\Repos\DataStructersHW1-\DataStructersHW1-\bin\Debug\DataStructersHW1-.exe.config
+C:\Users\YASİN ÖZKURT\Source\Repos\DataStructersHW1-\DataStructersHW1-\bin\Debug\DataStructersHW1-.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\DataStructersHW1-\DataStructersHW1-\bin\Debug\DataStructersHW1-.pdb
+C:\Users\YASİN ÖZKURT\Source\Repos\DataStructersHW1-\DataStructersHW1-\obj\Debug\DataStructersHW1-.csproj.AssemblyReference.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\DataStructersHW1-\DataStructersHW1-\obj\Debug\DataStructersHW1-.csproj.CoreCompileInputs.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\DataStructersHW1-\DataStructersHW1-\obj\Debug\DataStructersHW1-.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\DataStructersHW1-\DataStructersHW1-\obj\Debug\DataStructersHW1-.pdb

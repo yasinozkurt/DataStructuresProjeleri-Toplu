@@ -1,0 +1,7 @@
+C:\Users\YASİN ÖZKURT\Source\Repos\dsproje2\dsproje2\bin\Debug\dsproje2.exe.config
+C:\Users\YASİN ÖZKURT\Source\Repos\dsproje2\dsproje2\bin\Debug\dsproje2.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\dsproje2\dsproje2\bin\Debug\dsproje2.pdb
+C:\Users\YASİN ÖZKURT\Source\Repos\dsproje2\dsproje2\obj\Debug\dsproje2.csproj.AssemblyReference.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\dsproje2\dsproje2\obj\Debug\dsproje2.csproj.CoreCompileInputs.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\dsproje2\dsproje2\obj\Debug\dsproje2.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\dsproje2\dsproje2\obj\Debug\dsproje2.pdb
